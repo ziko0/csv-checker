@@ -116,9 +116,6 @@ Need a custom integration or private support?\
 
 ---
 
-## 🦾 Roadmap
-
--
 
 ---
 
@@ -134,8 +131,8 @@ Need a custom integration or private support?\
 
 Questions, bugs, or feature requests?
 
-- Email: [your@email.com](mailto\:your@email.com)
-- GitHub: [github.com/yourusername/csv-checker](https://github.com/yourusername/csv-checker)
+- Email: [zviadi.mamardashvili.1@gmail.com](mailto\:zviadi.mamardashvili.1@gmail.com)
+- GitHub: [github.com/ziko0/csv-checker](https://github.com/ziko0/csv-checker)
 
 ---
 
