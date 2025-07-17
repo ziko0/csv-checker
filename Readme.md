@@ -123,7 +123,7 @@ Need a custom integration or private support?\
 
 > The Free version is production-ready.
 >
-> The Pro version is actively under development.
+> The Pro version is production-ready.
 
 ---
 
